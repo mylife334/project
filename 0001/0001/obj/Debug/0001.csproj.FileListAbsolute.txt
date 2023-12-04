@@ -1,0 +1,14 @@
+D:\0001\0001\bin\Debug\0001.exe.config
+D:\0001\0001\bin\Debug\0001.exe
+D:\0001\0001\bin\Debug\0001.pdb
+D:\0001\0001\obj\Debug\0001.csproj.AssemblyReference.cache
+D:\0001\0001\obj\Debug\_0001.frmDangnhap.resources
+D:\0001\0001\obj\Debug\_0001.Properties.Resources.resources
+D:\0001\0001\obj\Debug\0001.csproj.GenerateResource.cache
+D:\0001\0001\obj\Debug\0001.csproj.CoreCompileInputs.cache
+D:\0001\0001\obj\Debug\0001.exe
+D:\0001\0001\obj\Debug\0001.pdb
+D:\0001\0001\obj\Debug\_0001.frmRegister.resources
+D:\0001\0001\obj\Debug\_0001.frmHomeST.resources
+D:\0001\0001\obj\Debug\_0001.frmBorrow.resources
+D:\0001\0001\obj\Debug\_0001.frmBorrowed_List.resources
